@@ -1,2 +1,2 @@
 # Eindwerk-2021
-De werkwijze naar een geautomatiseerde woning, stap voor stap. 
+De werkwijze naar mijn geautomatiseerde woning, stap voor stap. 
