@@ -5,4 +5,6 @@ Toen ik op internet de website gevonden had **over Hoe start je een succesvol pr
 kon ik er niet aan weerstaan om de vragenlijst in te vullen.
 En daadwerkelijk, ook voor een kleinschalig project kan het nuttig en leerrijk zijn om de vragenlijst eens in te vullen.
 
+Alles zal waar mogelijk nog vertaald worden naar het nederlands.
+
 Alles staat in het WIKI gedeelte, zonder de figuren en bijhorende foto's
